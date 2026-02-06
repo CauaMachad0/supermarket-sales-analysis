@@ -86,7 +86,7 @@ Tabelas e dados do Power BI na pasta 📁images
 - Faturamento total
 - Total de vendas
 - Quantidade vendida
-- Ticket médio
+- Por Gênero
 
 ### Análises visuais disponíveis:
 - Faturamento por categoria
@@ -98,8 +98,7 @@ Tabelas e dados do Power BI na pasta 📁images
 ### Recursos aplicados:
 - Conexão direta com PostgreSQL
 - Modelagem de dados
-- Medidas DAX
-- Filtros interativos (slicers)
+- Filtros interativos
 
 📁 Arquivo do dashboard:
 - powerbi/supermarket_sales_dashboard.pbix
